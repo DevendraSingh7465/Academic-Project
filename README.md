@@ -1,2 +1,2 @@
-# Acadmic-Project
+# Academic-Project
 Simple Banking Application
