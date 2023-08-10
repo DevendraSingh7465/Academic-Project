@@ -1,11 +1,18 @@
 # Academic-Project
 
-In this project, we have to choose one project to complete in 1st year so I decided to do Simple Banking Application Project.
+This project is created using Apache Netbeans and VS Code.
 
-Simple Banking Project includes 5 major Operations after the Login proccess:
-1. Deposit Money
-2. Withdraw Money
-3. Check Balance
-4. Transaction history
-5. Logout
+In this project I have created a simple banking application in which you can perform these operations :
+1. Sign up
+2. Sign in
+3. Deposit Money
+4. Withdraw money
+5. Your Profile with signup information
+6. Feedback
+7. and Logout.
 
+There are total 4 JFrames :
+1. Sign up
+2. Sign in
+3. main page
+4. personal information
