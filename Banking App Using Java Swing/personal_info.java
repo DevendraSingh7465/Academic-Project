@@ -278,6 +278,8 @@ public class personal_info extends javax.swing.JFrame {
                 String s21 [] = line.split("\\$");
                 sf1.mainpage_display_username.setText("Hey! "+s21[3]);
                 sf1.display_current_balance.setText(s21[5]);
+                int converted_balance = Integer.valueOf(s21[5]);
+                sf1.balance = converted_balance;
                 
             }
 
